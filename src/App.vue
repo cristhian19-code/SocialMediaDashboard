@@ -30,7 +30,6 @@
 </template>
 
 <script>
-import {provide} from '@vue/composition-api'
 import CardSocial from './components/CardSocial.vue';
 import CardOverviewVue from './components/CardOverview.vue';
 
